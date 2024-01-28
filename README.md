@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm DISHA, a MCA DevOps Engineer
+# Hi there! 👋 I'm DISHA, DevOps Engineer
 
 ## 🚀 About Me
 I'm passionate about leveraging technology to streamline development processes and enhance overall software delivery. With a Master's in Computer Applications (MCA) and hands-on experience in DevOps, I bring a unique blend of technical expertise and problem-solving skills to every project.
